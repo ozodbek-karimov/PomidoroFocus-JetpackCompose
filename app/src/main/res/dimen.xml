@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <!--  Common-->
+  <dimen name="scaffold_padding">16dp</dimen>
+  <!--  Settings-->
+  <dimen name="settings_card_padding">8dp</dimen>
+  <dimen name="menu_item_padding">6dp</dimen>
+  <dimen name="settings_heading_padding">2dp</dimen>
+  <!--  Timer-->
+  <dimen name="timer_watch_padding">20dp</dimen>
+  <dimen name="timer_spacing">20dp</dimen>
+  <dimen name="timer_button_spacing">16dp</dimen>
+  <dimen name="timer_mode_padding">8dp</dimen>
+  <!--  Statistics-->
+  <dimen name="statistics_item_spacing">8dp</dimen>
+  <dimen name="statistics_graph_padding">4dp</dimen>
+  <dimen name="statistics_header_padding">8dp</dimen>
+</resources>
